@@ -130,7 +130,7 @@ commit - with product regex
 ### weather search
 ##### NOTE! the weather api had changed and will not be the same as in the video
 ##### please work on this jokes api instead: https://api.chucknorris.io/jokes/search?query=big
-
+##### this work on jokes so part of progrming here is not implements and you can see the real code
 https://www.yahoo.com/news/weather/
 <br>
 
